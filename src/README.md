@@ -11,3 +11,6 @@ Create a postegres database and change the url, username and password
 in PostgreSQLJDBCConnection.java to match your database.<br>
 Once that's done run the Application.java file and the program will run.
 
+## Video link
+https://youtu.be/zohZtq4ArFw
+
